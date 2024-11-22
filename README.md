@@ -4,7 +4,7 @@
 
 
   
-### <div align="center">Hey there! 👋 I'm Dennis Irungu, a software engineer with one year of experience. My passion lies in full-stack development, specializing in React for frontend magic and Python for backend wizardry. Let's create something amazing together!.</div>  
+### <div align="center">Hey there! 👋 I'm Dennis Irungu, a software engineer with one year of experience. My passion lies in full-stack development, specializing in React for frontend magic and Javascript/Python for backend wizardry. Let's create something amazing together!.</div>  
   
 
 - 🔭 I’m currently working on Solo projects 
